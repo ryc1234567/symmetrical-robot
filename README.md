@@ -1,2 +1,2 @@
-# symmetrical-robot
-x
+- [ ] 1
+- [x] 2 
